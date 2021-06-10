@@ -22,7 +22,9 @@ G. (Ed.). (2021, February 1). Phred-scaled quality scores. Retrieved May 05, 202
 Jang, H., Shin, W., Lee, J., & Do, J. (2017, May 23). CpG and NON-CPG methylation IN epigenetic gene regulation and brain function. Retrieved May 30, 2021, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5485512/
 
 Kent WJ, Sugnet CW, Furey TS, Roskin KM, Pringle TH, Zahler AM, Haussler D. UCSC Genome Browser. (2006, June 12). Retrieved May 29, 2021, from https://genome.ucsc.edu/
-Nichols, K. E., & Malkin, D. (2015, June 22). Genotype Versus Phenotype: The Yin and Yang of Germline TP53 Mutations in Li-Fraumeni Syndrome. Retrieved from https://ascopubs.org/doi/10.1200/JCO.2015.61.5757
+Nichols, K. E., & Malkin, D. (2015, June 22).
+
+Genotype Versus Phenotype: The Yin and Yang of Germline TP53 Mutations in Li-Fraumeni Syndrome. Retrieved from https://ascopubs.org/doi/10.1200/JCO.2015.61.5757
 
 Rentzsch P, Schubach M, Shendure J, Kircher M. CADD-Splice—improving genome-wide variant effect prediction using deep learning-derived splice scores. (2021, February 22). Retrieved May 30, 2021, from https://cadd.gs.washington.edu/
 
