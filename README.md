@@ -17,7 +17,9 @@ due to this gene experience high relapse rates than other cancer patients [7,8,9
 
 References
 Bouaoun L, Sonkin D, Ardin M, Hollstein M, Byrnes G, Zavadil J, Olivier M. IARC TP53 database. (2016, September). Retrieved May 29, 2021, from https://p53.iarc.fr/
-G. (Ed.). (2021, February 1). Phred-scaled quality scores. Retrieved May 05, 2021, from https://gatk.broadinstitute.org/hc/en-us/articles/360035531872-Phred-scaled-quality-scores
+G. (Ed.). (2021, February 1). 
+
+Phred-scaled quality scores. Retrieved May 05, 2021, from https://gatk.broadinstitute.org/hc/en-us/articles/360035531872-Phred-scaled-quality-scores
 
 Jang, H., Shin, W., Lee, J., & Do, J. (2017, May 23). CpG and NON-CPG methylation IN epigenetic gene regulation and brain function. Retrieved May 30, 2021, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5485512/
 
